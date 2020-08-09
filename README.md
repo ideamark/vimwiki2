@@ -8,6 +8,6 @@
 
 ## Install
 * install apache server and vim first.
-* cp the whole pack folder to ~/.vim and cp the files in the html folder to /var/www
+* cp the whole pack folder to ~/.vim and cp the whole html folder to /var/www/
 * Open browser and enter http://localhost then you will see the home page.
-* NO need to create HTML files. Just edit the *.md files in /var/www and enjoy hacking!
+* NO need to create HTML files. Just edit the *.md files in /var/www/html/ and enjoy hacking!
