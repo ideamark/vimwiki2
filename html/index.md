@@ -1,5 +1,5 @@
-# Title1
+# Home Page
 
-## Title2
+## Title
 * This is a test page
-* [Jump to test page 2](test2.md)
+* [Jump to sub page](sub-page.md)
